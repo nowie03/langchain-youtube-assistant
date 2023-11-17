@@ -3,4 +3,4 @@ openai
 dotenv
 youtube-transcript-api
 tiktoken
-faiss-gpu
+chromadb
