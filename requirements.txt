@@ -1,0 +1,6 @@
+langchain
+openai
+dotenv
+youtube-transcript-api
+tiktoken
+faiss-gpu
